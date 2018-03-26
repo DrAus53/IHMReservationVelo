@@ -10,5 +10,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="/home/lubuntu/Outils/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar"/>
 	<classpathentry kind="lib" path="/home/lubuntu/Outils/apache-tomcat-9.0.4/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/home/lubuntu/jstl-1.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
